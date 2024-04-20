@@ -18,7 +18,7 @@ primary_region = 'sin'
   auto_stop_machines = true
   auto_start_machines = true
   min_machines_running = 0
-  processes = ['main']
+  processes = ['app']
 
 [[vm]]
   memory = '1gb'
